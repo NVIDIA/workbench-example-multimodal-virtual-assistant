@@ -20,7 +20,7 @@ SpeechRecognition==3.10.4
 ffmpeg-python==0.2.0
 soundfile==0.12.1
 
-gradio==4.43.0
+gradio==5.0.0
 langgraph==0.1.14
 langchain==0.2.11
 langchain-nvidia-ai-endpoints==0.2.0
